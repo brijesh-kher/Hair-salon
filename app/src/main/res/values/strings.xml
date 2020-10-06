@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hair Salon</string>
+    <string name="instructions">
+    Touch the fingerprint sensor
+</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Hair Saloon </string>
+</resources>
